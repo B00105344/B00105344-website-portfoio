@@ -1,0 +1,140 @@
+@charset "UTF-8";
+body{
+color: white;
+margin: 0;
+font-family: courier, "new courier", monospace;
+}
+
+header{
+text-align: center;
+color: white;
+text-shadow: cyan 2px 2px;
+margin: 0rem;
+padding: 0rem;
+font-family: "Times New Roman", Times, serif;
+}
+
+main{
+background-color: ;
+}
+
+footer{
+color: cyan;
+text-align: center;
+}
+
+h1{
+color: white;
+text-shadow: grey 2px 2px;
+font-family: "Times New Roman", Times, serif;
+}
+
+h2{
+
+color: white;
+font-family: oblique;
+font-size: 2em;
+font-variant: small-caps;
+text-align: center;
+text-decoration: underline;
+
+}
+
+h3{
+color: white;
+font-family: oblique;
+font-size: 2em;
+font-variant: small-caps;
+text-align: center;
+text-decoration: underline;
+}
+h4{
+color: white;
+font-family: oblique;
+font-size: 2em;
+font-variant: small-caps;
+text-align: center;
+text-decoration: underline;
+}
+h5{
+color: white;
+font-family: oblique;
+font-size: 2em;
+font-variant: small-caps;
+text-align: center;
+text-decoration: underline;
+}
+h6{
+color: white;
+font-family: oblique;
+font-size: 2em;
+font-variant: small-caps;
+text-align: center;
+text-decoration: underline;
+}
+
+p{
+color: white;
+font-family: "Times New Roman", Times, serif;
+text-indent: 50px;
+}
+
+img{
+margin1: 1px;
+padding: 10px;
+}
+
+a.fake{
+color: white;
+}
+
+img/team.jpg{
+	center
+}
+
+a{ 
+color: white;
+text-decoration: none;
+}
+nav{
+margin: auto;
+width:1000px;
+}
+
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+nav li {
+    float: left;
+}
+
+
+
+
+
+nav a:link, nav a:visited {
+    display: block;
+    width: 150px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border:1px solid cyan;
+}
+
+nav a:hover, nav a:active {
+    background-color: white;
+    color: black;
+}
+
+
